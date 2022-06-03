@@ -1,0 +1,1 @@
+I worked on the events and Historical pages for the tourism site, as well as a map with pins for local restraunts, bars, theme parks, historical sites, sports, music venus, frestival events. I also have been fiddling around with the base page layout and getting the pages to expand and retract properly.
