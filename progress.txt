@@ -2,3 +2,5 @@ I worked on the events and Historical pages for the tourism site, as well as a m
 
 
 week 10 dat 5 : I worked mainly on the style of the events page was unable to work on the project for as long as I wanted made a little progress.
+
+Made Edits to the css of the events page for a different look and added a map.
